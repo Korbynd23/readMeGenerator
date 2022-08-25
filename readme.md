@@ -14,6 +14,8 @@ none
 ## Instructions/How to use
 After cloning the repo you are able to open a live terminal and invoke 'node index.js' then the user will need to answer the prompted questions
 
+![video](https://www.drive.google.com/file/d/1PVpMC-kwtYd9tBLK22FP7UNJ6hSrMJ2l/view)
+
 ## License:
 Permission to use this application is granted under the MIT license. https://choosealicense.com/licenses/mit/
 
