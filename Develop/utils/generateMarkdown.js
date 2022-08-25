@@ -25,19 +25,19 @@ ${descr}
 ## Install Instructions
 ${install}
 
-# Credits
+## Credits
 ${credits}
 
 ## Instructions/How to use
 ${instruct}
 
-# License:
+## License:
 Permission to use this application is granted under the ${license} license. ${licenseLink}
 
 ## Created By:
-[${gitHub}](https://github.com/${gitHub})
+[GitHub link: ${gitHub}](https://github.com/${gitHub})
 
-## If you have any further questions on this application please feel free to contact me at ${email}
+### If you have any further questions on this application please feel free to contact me at ${email}
   `)}
 
 
